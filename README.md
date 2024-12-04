@@ -21,6 +21,10 @@ Open the browser and open the localhost:
 ```shell
 http://localhost:8080/login
 ```
+## Tools
+
+Laravel 11
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
