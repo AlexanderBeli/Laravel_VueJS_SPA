@@ -13,17 +13,19 @@ $ cd ./Laravel_VueJS_MySQL
 Then we need to launch it:
 
 ```shell
-$ 
+$ composer install
+$ npm run build
+$ php artisan serve
 ```
 
 Open the browser and open the localhost:
 
 ```shell
-http://localhost:8080/login
+http://localhost:8080/
 ```
 ## Tools
 
-Laravel 11
+Laravel 11, Vue, Vuex
 
 ## License
 

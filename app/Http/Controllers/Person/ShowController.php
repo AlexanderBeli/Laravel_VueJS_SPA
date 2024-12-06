@@ -3,14 +3,14 @@
 namespace App\Http\Controllers\Person;
 
 use App\Http\Controllers\Controller;
+use App\Http\Resources\Person\PersonResource;
 use App\Models\Person;
 
-class IndexController extends Controller
+class ShowController extends Controller
 {
-    public function test()
+    public function test(Person $person)
     {
-        $people = Person::all();
-        return $people;
+        return new PersonResource($person);
     }
 }
 
