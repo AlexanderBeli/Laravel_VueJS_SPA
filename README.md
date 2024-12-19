@@ -1,4 +1,9 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![Presentation Photo](presentation.png)
+# About
+
+Using Laravel, VueJS and MySQL, I created a page where the ability to add, change, and delete data from the DB is implemented. In this particular work, inheritance between components and seamless interaction with the DB are worked out. 
+
+Используя Laravel, VueJS and MySQL, создал страницу где реализованы возможность добавлять, изменять, удалять данные из БД. В конкретно данной работе проработаны наследование между компонентами, бесшовное взаимодействие с БД.
 
 ## First steps
 
