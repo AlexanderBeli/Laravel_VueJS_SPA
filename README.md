@@ -1,13 +1,10 @@
-![Presentation Photo](presentation.png)
 # About
 
-Using Laravel, VueJS and MySQL, I created a page where the ability to add, change, and delete data from the DB is implemented. In this particular work, inheritance between components and seamless interaction with the DB are worked out. 
+Using Laravel, VueJS, Vuex and MySQL, I created a SPA where the CRUD is implemented. In this particular work, the principles of building an SPA using Vuex are developed.
 
-Используя Laravel, VueJS and MySQL, создал страницу где реализованы возможность добавлять, изменять, удалять данные из БД. В конкретно данной работе проработаны наследование между компонентами, бесшовное взаимодействие с БД.
+Используя Laravel, VueJS, Vuex and MySQL, создал SPA где реализованы CRUD. В конкретно данной работе проработаны принципы построения SPA используя Vuex.
 
 ## First steps
-
-Let's watch how to start application development, based on this template. 
 
 We need to get the sources:
 
